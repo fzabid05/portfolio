@@ -57,7 +57,7 @@
   $(".competence-box li").on("click",function(event){
     
     $(this).css({
-      "boxShadow" : "13px 17px 23px  -1px rgba(0,0,0,0.75)",
+      "boxShadow" : "13px 17px 23px -1px rgba(0,0,0,0.75)",
       "letterSpacing" : "0.3vw",
       "transition" : "all 2s"
     })
